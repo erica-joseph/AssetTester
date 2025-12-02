@@ -59,7 +59,7 @@ Page 4 contains my hobbies. The obejects are floating a large piece of text. I t
 <p>
 Page 5 is the final functional page and contains a rip-away flyer for my contacts. Each tab rips away from the header, while also allowing for the link to be used. 
 </p>
-<center><img style = "width: 100%;" src ="README/Page5.jpg"/></center>
+<center><img style = "width: 100%;" src ="README/Page6.jpg"/></center>
 <h4> Blank (Page 6) </h4>
 <p>
 Page 6 is the final and allows the user to see the background fully. Users can play around with the Model's positions.
