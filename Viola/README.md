@@ -44,13 +44,26 @@ Page 1 contains a match of the album cover the entire project is inspired by. It
 <p>
 Page 2 simply contains a notebook paper with my note to the reader. The notebook page zooms in upon hover.
 </p>
-<center><img style = "width: 100%;" src ="README/Page4.jpg"/></center>
+<center><img style = "width: 100%;" src ="README/Page3.jpg"/></center>
 <h4> Phones (Page 3) </h4>
 <p>
-Page 1 contains a match of the album cover the entire project is inspired by. It contains three rows to satisfy the structure of the photos while allowing dynamic resizing.
+Page 3 contains cellphones used to display some of my favorite websites from the past. When the user hovers, the phones light up to display a preview of the website.
+</p>
+<center><img style = "width: 100%;" src ="README/Page4.jpg"/></center>
+<h4> Hobbies (Page 4) </h4>
+<p>
+Page 4 contains my hobbies. The obejects are floating a large piece of text. I tend to enjoy newsprint formatting and loved the aesthetic of this page. The objects light up and display a secret text upon hover as a tennis ball flights left and right.
 </p>
 <center><img style = "width: 100%;" src ="README/Page5.jpg"/></center>
-<center><img style = "width: 100%;" src ="README/Page6.jpg"/></center>
+<h4> Rip-away (Page 5) </h4>
+<p>
+Page 5 is the final functional page and contains a rip-away flyer for my contacts. Each tab rips away from the header, while also allowing for the link to be used. 
+</p>
+<center><img style = "width: 100%;" src ="README/Page5.jpg"/></center>
+<h4> Blank (Page 6) </h4>
+<p>
+Page 6 is the final and allows the user to see the background fully. Users can play around with the Model's positions.
+</p>
 
 
 <h3> Thanks for reading! </h3>
